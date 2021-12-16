@@ -12,6 +12,8 @@ export const HeaderNewsStyle = styled.div`
   padding: 2rem 1rem;
   & .title {
     text-align: center;
+    font-size: 48px;
+    font-weight: 500;
   }
   & .blog_sub_title {
     text-align: center;
